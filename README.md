@@ -22,7 +22,7 @@ These dependencies must be met for the plugin to be installed and run successful
 ### Install through phplist ###
 The recommended method of installing the plugin is through phplist.
 
-Install on the Plugins page (menu Config > Plugins) using the package URL `https://github.com/krishna2371995/CloudC/tree/master/phplist-plugin-rssfeed-master/archive/master.zip`
+Install on the Plugins page (menu Config > Plugins) using the package URL `https://github.com/krishna2371995/cloudproj/`
 
 ### Install manually ###
 If you are not able to install the plugin through phplist then it can be installed manually instead.
