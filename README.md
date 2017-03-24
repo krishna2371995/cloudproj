@@ -27,7 +27,7 @@ Install on the Plugins page (menu Config > Plugins) using the package URL `https
 ### Install manually ###
 If you are not able to install the plugin through phplist then it can be installed manually instead.
 
-Download the plugin zip file from <https://github.com/krishna2371995/cloudproj/aechieve/master.zip>
+Download the plugin zip file from <https://github.com/krishna2371995/cloudproj/archieve/master.zip>
 
 Expand the zip file, then copy the contents of the plugins directory to your phplist plugins directory.
 This should contain
