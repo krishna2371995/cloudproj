@@ -6,8 +6,7 @@
  *
  * @category  phplist
  *
- * @author    Duncan Cameron
- * @copyright 2015 Duncan Cameron
+ * @author    sai
  * @license   http://www.gnu.org/licenses/gpl.html GNU General Public License, Version 3
  */
 
